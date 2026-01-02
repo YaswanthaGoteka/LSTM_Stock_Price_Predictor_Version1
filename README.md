@@ -12,3 +12,9 @@ Important Notes:
  - No backtesting, risk management, or real-world trading constraints are included.
 
 The project is intended to showcase core ideas behind time-series forecasting, LSTM architecture, and PyTorch workflows for financial data analysis.
+
+### Future Improvements:
+1. Implement a more advanced model architecture (e.g., stacked LSTM, GRU, or Transformer-based time-series models).
+2. Add walk-forward (rolling) validation to better simulate real-world trading conditions.
+3. Incorporate additional features such as technical indicators, volume, and macroeconomic data.
+4. Optimize hyperparameters using automated tuning (Grid Search or Bayesian Optimization).
